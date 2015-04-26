@@ -1,6 +1,6 @@
-cmToInch <- function(x){
+cm_inch <- function(x){
   x/2.54
 }
-inchToCm <- function(x){
+inch_cm <- function(x){
   x*2.54
 }
